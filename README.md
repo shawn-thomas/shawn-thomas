@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi There 👋 I'm Shawn, a Developer based in Toronto 
+
+I build intuitive fullstack experiences, mostly for small businesses or just things that catch my interest. I find inspiration in hands-on experiences across different industries.
+
+Feel free to reach out at [shawn.thomas1@outlook.com](mailto:shawn.thomas1@outlook.com).
+
 
 <!--
 **shawn-thomas/shawn-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
