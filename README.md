@@ -1,6 +1,9 @@
 ### Hi There 👋 I'm Shawn, a Developer based in Toronto 
 
-I build intuitive fullstack experiences, mostly for small businesses or just things that catch my interest. I find inspiration from hands-on experiences across different industries.
+Little about me; programming isn't something I came across in my early on. I naturally gravitated towards it through exposure from various stages in my career.
+
+I specialize in Full-stack, and mostly try to build systems/experiences centered around business use-cases, or just simple features that I run into that could be improved upon. I find inspiration from hands-on experiences across different industries.
+
 
 Feel free to reach out at [shawn.thomas1@outlook.com](mailto:shawn.thomas1@outlook.com).
 
