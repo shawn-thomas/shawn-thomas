@@ -1,6 +1,6 @@
 ### Hi There 👋 I'm Shawn, a Developer based in Toronto 
 
-A bit about me: programming wasn't something I came across early on. I naturally gravitated towards it through exposure at different points in my career. Life sometimes feel's pretty short, in reality, it's a long journey, so is our career. Here I am, in my current stage, enjoying programming. 
+Life sometimes feel's pretty short, in reality, it's a long journey, so is our career. Here I am, in my current stage, enjoying programming. 
 
 I specialize in Full-stack, and mostly try to build systems/experiences centered around business use-cases, or just simple features that I run into that could be improved upon. I find inspiration from hands-on experiences across different industries.
 
