@@ -1,6 +1,3 @@
-### Builder of things
-
-
 Feel free to reach out at [shawn.thomas1@outlook.com](mailto:shawn.thomas1@outlook.com).
 
 
